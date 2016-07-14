@@ -12,7 +12,7 @@ $ cd vagrant-kafka
 $ vagrant up
 ```
 
-The Kafka server will be listening on `192.168.33.10` port `9092`.
+The Kafka brokers will listening to `192.168.33.10:9092,192.168.33.10:9093,192.168.33.10:9094`
 
 Check topic details with:
 
